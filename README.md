@@ -119,7 +119,3 @@ Reiteramos que o **Assistente Saúde é uma ferramenta experimental e educaciona
 **Procure sempre a orientação de um médico qualificado ou outro profissional de saúde para quaisquer dúvidas que possa ter sobre uma condição médica.** Nunca desconsidere o aconselhamento médico profissional nem adie a sua procura por causa de algo que você leu ou interagiu com este chatbot.
 
 -----
-
-```
-
-```
